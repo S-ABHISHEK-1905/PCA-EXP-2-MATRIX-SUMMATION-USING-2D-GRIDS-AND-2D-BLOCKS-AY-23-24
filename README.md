@@ -2,7 +2,7 @@
 
 <h3>NAME : S.ABHISHEK</h3>
 <h3>REGISTER NO : 212221230002</h3>
-<h3>EX. NO 3</h3>
+<h3>EX. NO 2</h3>
 <h3>DATE : 12.03.2024</h3>
 <h1> <align=centr> MATRIX SUMMATION WITH A 2D GRID AND 2D BLOCKS </h3>
 i.  Use the file sumMatrixOnGPU-2D-grid-2D-block.cu
